@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[38],{307:function(t,n,e){"use strict";e.r(n);var o=e(13),s=Object(o.a)({},(function(){var t=this._self._c;return t("ContentSlotsDistributor",{attrs:{"slot-key":this.$parent.slotKey}},[t("p",[t("RouterLink",{attrs:{to:"/electron/通信.html"}},[this._v("开始学习 electron ->")])],1)])}),[],!1,null,null,null);n.default=s.exports}}]);
