@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-9a2e9ca0","path":"/webApi/","title":"Web Api","lang":"zh-CN","frontmatter":{"title":"Web Api","article":false,"feed":false,"sitemap":false},"headers":[],"git":{},"readingTime":{"minutes":0,"words":1},"filePathRelative":null,"excerpt":""}');export{e as data};
