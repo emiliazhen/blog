@@ -1,0 +1,21 @@
+.article-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px 18px;
+  margin: 4px 0 20px;
+  color: var(--vp-c-text-2);
+  font-size: 13px;
+}
+
+.article-meta a {
+  margin-left: 6px;
+  color: var(--vp-c-brand-1);
+  font-weight: 500;
+}
+
+.article-meta a + a::before {
+  content: ' / ';
+  margin-right: 6px;
+  color: var(--vp-c-text-3);
+  font-weight: 400;
+}
